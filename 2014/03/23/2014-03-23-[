@@ -4,18 +4,21 @@
   <meta charset="utf-8">
   
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <title>新博客，鬼知道有木有新开始 | Easy Site</title>
+  <title>一夜回到解放前 | Easy Site</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="上次搞blog还是两年前了，所以我又开始换法子折腾了。虽然当场有Octopress折腾的飞起的经验，但我还是要继续玩玩新的HEXO了， wow， 一颗赛艇。过两天把以前的Blog全搞回来，我有MK我骄傲。">
+  <meta name="description" content="前两天手贱给电脑换硬盘，结果在win下做系统盘的时候，把mac分区给抹掉了，这下完蛋，所有资料，podcast都没了，不过回头想想，好歹不少东西在移动硬盘里面还有，也就无所谓了。
+记过，在做winpe的时候。再次格式化错了盘。这次真的是一夜回到解放前了，从新把系统装好，软件下载了一个礼拜，今天总算从新把octopress给配置了，结果发现git到octopress的上面的内容，这是千百年前阿，我也">
 <meta property="og:type" content="article">
-<meta property="og:title" content="新博客，鬼知道有木有新开始">
-<meta property="og:url" content="http://yoursite.com/2016/08/26/新博客，鬼知道有木有新开始/index.html">
+<meta property="og:title" content="一夜回到解放前">
+<meta property="og:url" content="http://yoursite.com/2014/03/23/2014-03-23-[">
 <meta property="og:site_name" content="Easy Site">
-<meta property="og:description" content="上次搞blog还是两年前了，所以我又开始换法子折腾了。虽然当场有Octopress折腾的飞起的经验，但我还是要继续玩玩新的HEXO了， wow， 一颗赛艇。过两天把以前的Blog全搞回来，我有MK我骄傲。">
-<meta property="og:updated_time" content="2016-08-26T13:19:04.000Z">
+<meta property="og:description" content="前两天手贱给电脑换硬盘，结果在win下做系统盘的时候，把mac分区给抹掉了，这下完蛋，所有资料，podcast都没了，不过回头想想，好歹不少东西在移动硬盘里面还有，也就无所谓了。
+记过，在做winpe的时候。再次格式化错了盘。这次真的是一夜回到解放前了，从新把系统装好，软件下载了一个礼拜，今天总算从新把octopress给配置了，结果发现git到octopress的上面的内容，这是千百年前阿，我也">
+<meta property="og:updated_time" content="2014-03-23T03:42:28.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="新博客，鬼知道有木有新开始">
-<meta name="twitter:description" content="上次搞blog还是两年前了，所以我又开始换法子折腾了。虽然当场有Octopress折腾的飞起的经验，但我还是要继续玩玩新的HEXO了， wow， 一颗赛艇。过两天把以前的Blog全搞回来，我有MK我骄傲。">
+<meta name="twitter:title" content="一夜回到解放前">
+<meta name="twitter:description" content="前两天手贱给电脑换硬盘，结果在win下做系统盘的时候，把mac分区给抹掉了，这下完蛋，所有资料，podcast都没了，不过回头想想，好歹不少东西在移动硬盘里面还有，也就无所谓了。
+记过，在做winpe的时候。再次格式化错了盘。这次真的是一夜回到解放前了，从新把系统装好，软件下载了一个礼拜，今天总算从新把octopress给配置了，结果发现git到octopress的上面的内容，这是千百年前阿，我也">
   
     <link rel="alternative" href="/atom.xml" title="Easy Site" type="application/atom+xml">
   
@@ -201,11 +204,11 @@
 	</div>
 </nav>
 
-      <div class="body-wrap"><article id="post-新博客，鬼知道有木有新开始" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-2014-03-23-[?]-ye-hui-dao-jie-fang-qian" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2016/08/26/新博客，鬼知道有木有新开始/" class="article-date">
-  	<time datetime="2016-08-26T13:19:04.000Z" itemprop="datePublished">2016-08-26</time>
+      <a href="/2014/03/23/2014-03-23-[?]-ye-hui-dao-jie-fang-qian/" class="article-date">
+  	<time datetime="2014-03-23T03:38:44.000Z" itemprop="datePublished">2014-03-23</time>
 </a>
     </div>
   
@@ -218,7 +221,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      新博客，鬼知道有木有新开始
+      一夜回到解放前
     </h1>
   
 
@@ -227,6 +230,10 @@
       <div class="article-info article-info-post">
         
         
+	<div class="article-category tagcloud">
+	<a class="article-category-link" href="/categories/电脑，折腾，/">电脑，折腾，</a>
+	</div>
+
 
         <div class="clearfix"></div>
       </div>
@@ -234,7 +241,8 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>上次搞blog还是两年前了，所以我又开始换法子折腾了。虽然当场有Octopress折腾的飞起的经验，但我还是要继续玩玩新的HEXO了， wow， 一颗赛艇。过两天把以前的Blog全搞回来，我有MK我骄傲。</p>
+        <p>前两天手贱给电脑换硬盘，结果在win下做系统盘的时候，把mac分区给抹掉了，这下完蛋，所有资料，podcast都没了，不过回头想想，好歹不少东西在移动硬盘里面还有，也就无所谓了。</p>
+<p>记过，在做winpe的时候。再次格式化错了盘。这次真的是一夜回到解放前了，从新把系统装好，软件下载了一个礼拜，今天总算从新把octopress给配置了，结果发现git到octopress的上面的内容，这是千百年前阿，我也尽量提取保留了一部分html，以后，慢慢再发上来吧。</p>
 
       
     </div>
@@ -244,11 +252,15 @@
     
 <nav id="article-nav">
   
-  
-    <a href="/2014/08/03/2014-08-03-wei-shi-yao-wo-fang-qi-liao-applede-offer/" id="article-nav-older" class="article-nav-link-wrap">
-      <div class="article-nav-title">为什么我放弃了APPLE的offer</div>
-      <strong class="article-nav-caption">></strong>
+    <a href="/2014/03/24/2014-03-24-new-test/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption"><</strong>
+      <div class="article-nav-title">
+        
+          new test
+        
+      </div>
     </a>
+  
   
 </nav>
 
@@ -281,7 +293,7 @@
 
 <div class="duoshuo">
 	<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="新博客，鬼知道有木有新开始" data-title="新博客，鬼知道有木有新开始" data-url="http://yoursite.com/2016/08/26/新博客，鬼知道有木有新开始/"></div>
+	<div class="ds-thread" data-thread-key="2014-03-23-[?]-ye-hui-dao-jie-fang-qian" data-title="一夜回到解放前" data-url="http://yoursite.com/2014/03/23/2014-03-23-[?]-ye-hui-dao-jie-fang-qian/"></div>
 	<!-- 多说评论框 end -->
 	<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 	<script type="text/javascript">
